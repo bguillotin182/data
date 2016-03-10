@@ -6,18 +6,22 @@ JSON files that may be used during training sessions.
 
 Data mainly extracted from: https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size, using [csvtojson](https://www.npmjs.com/package/csvtojson)
 
+Other great resource (in French): http://www.le-systeme-solaire.net
+
 #### sample
 
 ```js
 {
-  "name": "Jupiter",
-  "radius": 69911,
-  "volume": 1431280,
-  "mass": 1898600,
-  "density": 1.326,
-  "gravity": 24.79,
-  "distance": 778.3,
-  "satellitesCount": 67,
-  "type": "gas giant"
+  "name": "Uranus",
+  "radius": 25362,
+  "volume": 68340,
+  "mass": 86832,
+  "density": 1.27,
+  "gravity": 8.87,
+  "distance": 2871,
+  "satellitesCount": 27,
+  "hasRings": true,
+  "discoveredAt": [1781, 3, 13],
+  "type": "ice giant"
 }
 ```

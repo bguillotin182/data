@@ -9,6 +9,8 @@
         "gravity": 24.79,
         "distance": 778.3,
         "satellitesCount": 67,
+        "hasRings": true,
+        "discoveredAt": [],
         "type": "gas giant"
     }, {
         "name": "Saturn",
@@ -19,6 +21,8 @@
         "gravity": 10.445,
         "distance": 1427,
         "satellitesCount": 62,
+        "hasRings": true,
+        "discoveredAt": [],
         "type": "gas giant"
     }, {
         "name": "Uranus",
@@ -29,6 +33,8 @@
         "gravity": 8.87,
         "distance": 2871,
         "satellitesCount": 27,
+        "hasRings": true,
+        "discoveredAt": [1781, 3, 13],
         "type": "ice giant"
     }, {
         "name": "Neptune",
@@ -39,6 +45,8 @@
         "gravity": 11.15,
         "distance": 4497,
         "satellitesCount": 13,
+        "hasRings": true,
+        "discoveredAt": [1846, 9, 23],
         "type": "ice giant"
     }, {
         "name": "Earth",
@@ -49,6 +57,8 @@
         "gravity": 9.80665,
         "distance": 149.6,
         "satellitesCount": 1,
+        "hasRings": false,
+        "discoveredAt": [],
         "type": "telluric"
     }, {
         "name": "Venus",
@@ -59,6 +69,8 @@
         "gravity": 8.872,
         "distance": 108.2,
         "satellitesCount": 0,
+        "hasRings": false,
+        "discoveredAt": [],
         "type": "telluric"
     }, {
         "name": "Mars",
@@ -69,6 +81,8 @@
         "gravity": 3.7,
         "distance": 227.9,
         "satellitesCount": 2,
+        "hasRings": false,
+        "discoveredAt": [],
         "type": "telluric"
     }, {
         "name": "Mercury",
@@ -79,6 +93,8 @@
         "gravity": 3.7,
         "distance": 57.9,
         "satellitesCount": 0,
+        "hasRings": false,
+        "discoveredAt": [],
         "type": "telluric"
     }, {
         "name": "Pluto",
@@ -89,6 +105,8 @@
         "gravity": 0.61,
         "distance": 5913,
         "satellitesCount": 1,
+        "hasRings": false,
+        "discoveredAt": [1930, 2, 18],
         "type": "dwarf"
     }, {
         "name": "Eris",
@@ -98,7 +116,9 @@
         "density": 2.52,
         "gravity": 0.659,
         "distance": 14410,
-        "satellitesCount": "",
+        "satellitesCount": 1,
+        "hasRings": false,
+        "discoveredAt": [2005, 1, 5],
         "type": "dwarf"
     }, {
         "name": "Makemake",
@@ -108,7 +128,9 @@
         "density": 2.3,
         "gravity": "",
         "distance": 7780,
-        "satellitesCount": "",
+        "satellitesCount": null,
+        "hasRings": false,
+        "discoveredAt": [2005, 3, 31],
         "type": "dwarf"
     }, {
         "name": "Haumea",
@@ -118,7 +140,9 @@
         "density": 2.55,
         "gravity": 0.44,
         "distance": 6452,
-        "satellitesCount": "",
+        "satellitesCount": 2,
+        "hasRings": false,
+        "discoveredAt": [2004, 12, 28],
         "type": "dwarf"
     }, {
         "name": "Ceres",
@@ -129,6 +153,8 @@
         "gravity": 0.29,
         "distance": 419,
         "satellitesCount": 0,
+        "hasRings": false,
+        "discoveredAt": [1801, 1, 1],
         "type": "dwarf"
     }]
 }
