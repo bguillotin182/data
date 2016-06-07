@@ -25,3 +25,27 @@ Other great resource (in French): http://www.le-systeme-solaire.net
   "type": "ice giant"
 }
 ```
+
+### pizza.json
+
+Data mainly extracted from https://en.wikipedia.org/wiki/List_of_pizza_varieties_by_country
+
+
+#### sample
+
+```js
+{
+  "name": "Quattro Stagioni",
+  "toppings": [
+    "tomato sauce",
+    "mozzarella",
+    "mushrooms",
+    "ham",
+    "eggs",
+    "artichoke",
+    "black olives",
+    "peas",
+    "salami"
+  ]
+}
+```
