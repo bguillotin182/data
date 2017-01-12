@@ -1,0 +1,23 @@
+{
+	"games": [
+		{ "date": "21.12.16", "Bordeaux": 0, "Nice": 0 },
+		{ "date": "17.12.16", "Montpellier": 4, "Bordeaux": 0 },
+		{ "date": "10.12.16", "Bordeaux": 0, "Monaco": 4 },
+		{ "date": "03.12.16", "Bordeaux": 0, "Lille": 1 },
+		{ "date": "30.11.16", "Bastia": 1, "Bordeaux": 1 },
+		{ "date": "26.11.16", "Bordeaux": 3, "Dijon": 2 },
+		{ "date": "20.11.16", "Guingamp": 1, "Bordeaux": 1 },
+		{ "date": "05.11.16", "Bordeaux": 2, "Lorient": 1 },
+		{ "date": "30.10.16", "Marseille": 0, "Bordeaux": "0" },
+		{ "date": "22.10.16", "Bordeaux": 1, "Nancy": 1 },
+		{ "date": "16.10.16", "Rennes": 1, "Bordeaux": 1 },
+		{ "date": "01.10.16", "PSG": 2, "Bordeaux": "O" },
+		{ "date": "24.09.16", "Bordeaux": 0, "Caen": 0 },
+		{ "date": "21.09.16", "Metz": 0, "Bordeaux": 3 },
+		{ "date": "17.09.16", "Bordeaux": 0, "Angers": 1 },
+		{ "date": "10.09.16", "Lyon": 1, "Bordeaux": 3 },
+		{ "date": "28.08.16", "Bordeaux": 0, "Nantes": 11 },
+		{ "date": "20.08.16", "Toulouse": 4, "Bordeaux": 1 },
+		{ "date": "13.08.16", "Bordeaux": 3, "Saint-Etienne": 2 }
+	]
+}
