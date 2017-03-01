@@ -1,0 +1,7 @@
+{
+  "name": "Kitchen",
+  "orientation": "NW",
+  "size": 20,
+  "rooms": ["dining-room", "study", "ballroom"]
+}
+

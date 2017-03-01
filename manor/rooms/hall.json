@@ -1,0 +1,7 @@
+{
+  "name": "Hall",
+  "orientation": "S",
+  "size": 20,
+  "rooms": ["lounge", "study"]
+}
+

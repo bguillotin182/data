@@ -1,0 +1,6 @@
+{
+  "name": "Study",
+  "orientation": "SE",
+  "size": 24,
+  "rooms": ["kitchen", "hall", "library"]
+}

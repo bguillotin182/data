@@ -1,0 +1,6 @@
+{
+  "name": "Dining room",
+  "orientation": "W",
+  "size": 45,
+  "rooms": ["kitchen", "lounge"]
+}

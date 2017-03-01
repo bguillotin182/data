@@ -1,0 +1,7 @@
+{
+  "name": "Lounge",
+  "orientation": "SW",
+  "size": 35,
+  "rooms": ["dining-room", "hall", "conservatory"]
+}
+
