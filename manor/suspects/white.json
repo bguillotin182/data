@@ -1,7 +1,7 @@
 {
   "name" : "Mrs White",
   "gender": "female",
-  "age": "?",
+  "age": 72,
   "color": "#CCC"
 }
 
